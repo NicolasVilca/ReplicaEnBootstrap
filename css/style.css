@@ -1,0 +1,11 @@
+.seccion_principal {
+    display: flex;
+    justify-content: space-around;
+}
+.card {
+    width: 32%;
+}
+
+.seccion_formularios {
+    padding: 0.6rem;
+}
